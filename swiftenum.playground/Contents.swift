@@ -52,3 +52,4 @@ let myNetWifi = NewWiFiType.StringWiFi
 
 
 
+
